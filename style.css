@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1433733071959-30cd185d14a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80);
+    background-size: 230% 230%;
+    color: peachpuff;
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  #name-part2 {
+    color :rgb(255, 208, 0);
+  }
+  #name-part1 {
+    color: rgb(200, 255, 0);
+  }
+  
